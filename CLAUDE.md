@@ -21,6 +21,7 @@ eval/gold.jsonl → src/rag/eval/run.py → results/runs/<ts>_<sha>.json → scr
 ## Commands
 - Install/sync: `uv sync`
 - Tests: `uv run pytest`
+- Run a module: `PYTHONPATH=src uv run --no-sync python -m rag.ingest.fetch` (macOS hides the editable-install file in this folder, so Python needs the PYTHONPATH hint)
 - Lint/format: `uv run ruff check . && uv run ruff format .`
 - Tool paths in the Claude tool shell: `uv` and `gh` live in `/opt/homebrew/bin` (not on the tool PATH; call them by full path).
 

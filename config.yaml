@@ -7,6 +7,20 @@ paths:
   index_dir: indexes        # BM25 / vector indexes (gitignored)
   results_dir: results/runs # versioned eval results (committed)
 
+arxiv:
+  # Papers whose abstract mentions any of these phrases, in the NLP category.
+  search_terms:
+    - retrieval-augmented generation
+    - dense retrieval
+    - reranking
+    - RAG evaluation
+    - LLM-as-a-judge
+  category: cs.CL
+  start_date: "20240101"   # only papers from here on: older ones rarely have an HTML version
+  max_candidates: 700      # how many search results to look through
+  target_papers: 400       # stop once we have this many papers that have an HTML version
+  delay_seconds: 3.0       # arXiv asks for at most 1 request per 3 seconds
+
 chunking:
   size: 256     # tokens per chunk
   overlap: 32   # tokens shared between neighbouring chunks

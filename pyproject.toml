@@ -5,6 +5,7 @@ description = "Retrieval-augmented QA over arXiv RAG/retrieval/eval papers, with
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
+    "httpx>=0.28.1",
     "pydantic>=2.13.5",
     "pydantic-settings>=2.15.0",
     "pyyaml>=6.0.3",
@@ -21,6 +22,9 @@ packages = ["src/rag"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+# macOS can flag the editable-install file as "hidden", and Python then ignores it.
+# Pointing pytest at src/ directly makes tests work regardless.
+pythonpath = ["src"]
 addopts = "-q"
 
 [tool.ruff]

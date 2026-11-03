@@ -28,6 +28,15 @@ class PathsConfig(BaseModel):
     results_dir: Path = Path("results/runs")
 
 
+class ArxivConfig(BaseModel):
+    search_terms: list[str] = ["retrieval-augmented generation"]
+    category: str = "cs.CL"
+    start_date: str = "20240101"
+    max_candidates: int = Field(700, gt=0)
+    target_papers: int = Field(400, gt=0)
+    delay_seconds: float = Field(3.0, ge=0)
+
+
 class ChunkingConfig(BaseModel):
     size: int = Field(256, gt=0, description="Tokens per chunk.")
     overlap: int = Field(32, ge=0, description="Tokens shared between neighbouring chunks.")
@@ -42,6 +51,7 @@ class ChunkingConfig(BaseModel):
 
 class Settings(BaseSettings):
     paths: PathsConfig = PathsConfig()
+    arxiv: ArxivConfig = ArxivConfig()
     chunking: ChunkingConfig = ChunkingConfig()
 
     # Read from the conventional ANTHROPIC_API_KEY name (no RAG_ prefix).
