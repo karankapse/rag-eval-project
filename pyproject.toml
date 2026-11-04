@@ -5,7 +5,9 @@ description = "Retrieval-augmented QA over arXiv RAG/retrieval/eval papers, with
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
+    "beautifulsoup4>=4.15.0",
     "httpx>=0.28.1",
+    "lxml>=6.1.3",
     "pydantic>=2.13.5",
     "pydantic-settings>=2.15.0",
     "pyyaml>=6.0.3",
