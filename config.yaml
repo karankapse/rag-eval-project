@@ -22,5 +22,5 @@ arxiv:
   delay_seconds: 3.0       # arXiv asks for at most 1 request per 3 seconds
 
 chunking:
-  size: 256     # tokens per chunk
-  overlap: 32   # tokens shared between neighbouring chunks
+  size: 200     # words per chunk
+  overlap: 40   # words shared between neighbouring chunks

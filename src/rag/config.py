@@ -38,8 +38,8 @@ class ArxivConfig(BaseModel):
 
 
 class ChunkingConfig(BaseModel):
-    size: int = Field(256, gt=0, description="Tokens per chunk.")
-    overlap: int = Field(32, ge=0, description="Tokens shared between neighbouring chunks.")
+    size: int = Field(200, gt=0, description="Words per chunk.")
+    overlap: int = Field(40, ge=0, description="Words shared between neighbouring chunks.")
 
     @model_validator(mode="after")
     def overlap_smaller_than_size(self) -> "ChunkingConfig":

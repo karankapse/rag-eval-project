@@ -52,3 +52,18 @@ Search finds the relevant passages, then Claude answers using only those passage
 
 **Check questions & my answers**
 _(to fill in)_
+
+---
+
+## M1 · Chunk 1.4: Naive chunking
+
+**Concepts**
+- **Chunk** = a small passage (~200 words) that search can point to, instead of a whole 43,000-character paper.
+- **Fixed-size with overlap**: slide along the text `size - overlap` words at a time. Overlap means a sentence cut at one boundary appears whole in the neighbouring chunk.
+- **Deliberately naive**: it ignores sections, so it sometimes starts mid-sentence (chunk `2611.03179v1#004` begins "any clause receives a low score"). That is our baseline to beat with structure-aware chunking later, and we will measure the difference.
+- **Chunk IDs** (`paper_id#index`) are how eval questions say "the answer is in chunk X" and how Claude's answers will cite sources.
+- Size is counted in words for now (tokens would be more exact; revisit only if measurements say it matters).
+- Result: 18,283 chunks, median 200 words.
+
+**Check questions & my answers**
+- Which chunk would contain the sentence "Figure 1 illustrates the idea..."? Both #003 and #004, because of the overlap. Is that good or bad? _(not answered yet; hint: it helps find boundary sentences, but a duplicate can crowd out other results)_
