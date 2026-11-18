@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "2611.03179v1",
+    "title": "Every Clause Counts: Instruction-Following Reranking by Multiplying Small, Answerable Questions",
+    "published": "2026-11-02"
+  },
+  {
+    "id": "2611.02810v1",
+    "title": "TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation",
+    "published": "2026-11-02"
+  },
+  {
+    "id": "2611.02766v1",
+    "title": "EffComp: Efficient Prompt Compression via Hybrid Reinforcement & Supervised Learning",
+    "published": "2026-11-02"
+  },
+  {
+    "id": "2611.02692v1",
+    "title": "LLMs Cannot Be Neutral: Gender Sensitivity Across Candidates, Evaluators, and Models",
+    "published": "2026-11-02"
+  },
+  {
+    "id": "2611.02587v1",
+    "title": "They Know Where It Is, But Not What It Says: A Bilingual Hallucination Benchmark of Hadith Recall in Open LLMs",
+    "published": "2026-11-02"
+  },
+  {
+    "id": "2611.02550v1",
+    "title": "Re$^3$Rank: Listwise Reranking with Reasoning-Conditioned Retrieval Heads",
+    "published": "2026-11-02"
+  },
+  {
+    "id": "2611.02387v1",
+    "title": "EviCast: Forecasting Retrieval Gains Through Shared Response Calibration",
+    "published": "2026-11-02"
+  },
+  {
+    "id": "2611.01409v1",
+    "title": "RAG-TRACE: Tracing Measurement Evidence and Diagnostic Completeness in AI-Generated ECG Reports",
+    "published": "2026-11-01"
+  },
+  {
+    "id": "2611.01261v1",
+    "title": "MedAstra: ASR-less Speech Retrieval with Diagnostic Grounding for Medical QA",
+    "published": "2026-10-31"
+  },
+  {
+    "id": "2611.00871v1",
+    "title": "ShiftRAG: Bypassing the Textual Bottleneck via Decoupled Learning and Continuous Soft Tokens",
+    "published": "2026-10-31"
+  },
+  {
+    "id": "2611.00606v1",
+    "title": "Sparse Autoencoder Attribution Graphs Are Decided at the Margin",
+    "published": "2026-10-31"
+  },
+  {
+    "id": "2611.00450v1",
+    "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
+    "published": "2026-10-30"
+  },
+  {
+    "id": "2611.00447v1",
+    "title": "Quantiles, Not Points: Streaming Quantile Matching for Ordinal-Aware LLM-as-a-Judge Calibration",
+    "published": "2026-10-30"
+  },
+  {
+    "id": "2611.00344v1",
+    "title": "SPARK: Self-Correcting Embodied Memory via Physical Re-Observation",
+    "published": "2026-10-30"
+  },
+  {
+    "id": "2610.41905v1",
+    "title": "Completeness and Cost of Retrieval Structures for Multi-Tool Requests in LLM Agents",
+    "published": "2026-10-30"
+  },
+  {
+    "id": "2610.41396v1",
+    "title": "ProSearch: Benchmarking Multi-Constraint Protocol Retrieval in Experimental Science",
+    "published": "2026-10-30"
+  },
+  {
+    "id": "2610.41172v1",
+    "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
+    "published": "2026-10-30"
+  },
+  {
+    "id": "2610.41012v1",
+    "title": "Language Models Show Conformity Bias in RAG: When the Majority Endorses a Poisoned Claim",
+    "published": "2026-10-29"
+  },
+  {
+    "id": "2610.40454v1",
+    "title": "Glance: The Generator Is Its Own Reranker",
+    "published": "2026-10-29"
+  },
+  {
+    "id": "2610.40742v1",
+    "title": "Prevented is Not Protected: What Attack Success Rate Hides about RAG",
+    "published": "2026-10-29"
+  },
+  {
+    "id": "2610.39671v1",
+    "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+    "published": "2026-10-29"
+  },
+  {
+    "id": "2610.38854v1",
+    "title": "Contextual Embeddings Beyond the Gold Chunk",
+    "published": "2026-10-28"
+  },
+  {
+    "id": "2610.38683v1",
+    "title": "Quantum-Inspired Pairwise Ranking Aggregation via Active LLM Feedback",
+    "published": "2026-10-28"
+  },
+  {
+    "id": "2610.38366v1",
+    "title": "TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering",
+    "published": "2026-10-28"
+  },
+  {
+    "id": "2610.38076v1",
+    "title": "Prompt Lottery in LLM-as-a-Judge: Measuring and Mitigating Sensitivity to Syntactic Rephrasing",
+    "published": "2026-10-27"
+  },
+  {
+    "id": "2610.37826v2",
+    "title": "DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers",
+    "published": "2026-10-27"
+  },
+  {
+    "id": "2610.37481v1",
+    "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
+    "published": "2026-10-27"
+  },
+  {
+    "id": "2610.37323v1",
+    "title": "UCVE: Graph Structured Retrieval for Compliance Validation",
+    "published": "2026-10-27"
+  },
+  {
+    "id": "2610.37229v1",
+    "title": "Decision Models as Judges for Hallucination Detection",
+    "published": "2026-10-27"
+  },
+  {
+    "id": "2610.37162v1",
+    "title": "Coverage Under Contradiction: A Benchmark for Negation-Aware Retrieval",
+    "published": "2026-10-27"
+  },
+  {
+    "id": "2610.36991v3",
+    "title": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
+    "published": "2026-10-27"
+  },
+  {
+    "id": "2610.36557v1",
+    "title": "QESChunker: A Single Objective Unifies Overlapping and Non-Overlapping Chunking for RAG",
+    "published": "2026-10-27"
+  },
+  {
+    "id": "2610.37707v1",
+    "title": "Relevance-Guided Residual Calibration for Spectral Compression of Dense Retrieval Embeddings",
+    "published": "2026-10-26"
+  },
+  {
+    "id": "2610.35654v2",
+    "title": "Improving JEV Entailment Reranking with Span Readouts and Selective Adaptation",
+    "published": "2026-10-26"
+  },
+  {
+    "id": "2610.35635v1",
+    "title": "Offline Language-Based Support System for Tactical Decision-Making in Air Combat Operations",
+    "published": "2026-10-26"
+  },
+  {
+    "id": "2610.35142v1",
+    "title": "CalibraRL: Confidence-Calibrated Reinforcement Learning for Mitigating Hallucinations in RAG",
+    "published": "2026-10-26"
+  },
+  {
+    "id": "2610.35094v1",
+    "title": "RAGing Against Misogyny: Improving Implicit Misogyny Explanations",
+    "published": "2026-10-26"
+  },
+  {
+    "id": "2610.34875v1",
+    "title": "RubriX: A Fast, Fine-Tunable Non-Autoregressive Rubric Judge",
+    "published": "2026-10-26"
+  },
+  {
+    "id": "2610.34872v1",
+    "title": "Adaptive Retrieval, Selective Answers: Evaluating Conformal Factuality in Agentic RAG",
+    "published": "2026-10-26"
+  },
+  {
+    "id": "2610.34673v1",
+    "title": "Agent Memory as Recommendation: Recommender-System Design for Long-Term Memory of LLM Agents",
+    "published": "2026-10-26"
+  },
+  {
+    "id": "2610.34585v1",
+    "title": "Large Language Models: A Plain-Language Overview for Engineers",
+    "published": "2026-10-25"
+  },
+  {
+    "id": "2610.34507v2",
+    "title": "The Price of Scale in Proactive Memory Recall",
+    "published": "2026-10-25"
+  },
+  {
+    "id": "2610.37701v1",
+    "title": "DuQUAD: A Dual-View Framework with Quality-Aware Evidence Pruning for Multi-Document Question Answering",
+    "published": "2026-10-25"
+  },
+  {
+    "id": "2610.34294v1",
+    "title": "Factual Yet One-Sided: Stance Poisoning and Evidence Balancing in Retrieval-Augmented Generation",
+    "published": "2026-10-25"
+  },
+  {
+    "id": "2610.33931v2",
+    "title": "HerHealthGPT: An Evidence-Grounded Conversational AI System for Women's Reproductive Health",
+    "published": "2026-10-24"
+  },
+  {
+    "id": "2610.33776v1",
+    "title": "TriageRAG: Failure-Aware Self-Training for Adapting Retrieval-Augmented Language Models to Specialized Domains",
+    "published": "2026-10-24"
+  },
+  {
+    "id": "2610.33511v1",
+    "title": "Towards a Learnable Retriever for Textual Graph Question Answering",
+    "published": "2026-10-24"
+  },
+  {
+    "id": "2610.32933v1",
+    "title": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
+    "published": "2026-10-23"
+  },
+  {
+    "id": "2610.32435v1",
+    "title": "Profile-Driven User Simulation via Reinforcement Learning with Hierarchical Rewards for Task-Oriented Dialogues",
+    "published": "2026-10-23"
+  },
+  {
+    "id": "2610.32332v1",
+    "title": "4DMemory: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented Agents",
+    "published": "2026-10-23"
+  },
+  {
+    "id": "2610.32318v1",
+    "title": "System One models Are Not Better Rerankers",
+    "published": "2026-10-23"
+  },
+  {
+    "id": "2610.32122v1",
+    "title": "Semantically Rich, Metrically Affect-Blind: A Geometric Blind Spot in Modern Text Embedders",
+    "published": "2026-10-23"
+  },
+  {
+    "id": "2610.31863v1",
+    "title": "Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.31606v2",
+    "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.31467v1",
+    "title": "From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.31172v1",
+    "title": "Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge Robustness",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.31062v1",
+    "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.31019v1",
+    "title": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.30970v1",
+    "title": "Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.30882v1",
+    "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.30705v1",
+    "title": "ULME: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.30690v1",
+    "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.30612v1",
+    "title": "The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts",
+    "published": "2026-10-22"
+  },
+  {
+    "id": "2610.29933v1",
+    "title": "Graph Topology Meets Energy-Driven Pathfinding: Preserving Contextual Consistency in Retrieval-Augmented Generation",
+    "published": "2026-10-21"
+  },
+  {
+    "id": "2610.29792v1",
+    "title": "MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented Generation",
+    "published": "2026-10-21"
+  },
+  {
+    "id": "2610.29722v1",
+    "title": "Retrieval Augmented Generation Compositionality",
+    "published": "2026-10-21"
+  },
+  {
+    "id": "2610.30193v1",
+    "title": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
+    "published": "2026-10-21"
+  },
+  {
+    "id": "2610.29225v1",
+    "title": "Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics",
+    "published": "2026-10-21"
+  },
+  {
+    "id": "2610.29223v1",
+    "title": "C$^2$U in RAG: Compositional Concept Unlearning in Retrieval-Augmented Generation",
+    "published": "2026-10-21"
+  },
+  {
+    "id": "2610.29210v1",
+    "title": "Understanding Target Probability Reuse in Speculative Decoding",
+    "published": "2026-10-21"
+  },
+  {
+    "id": "2610.28957v1",
+    "title": "Scan or Index? large Evidence Coverage, Answer Quality, and Cost in Long-Document RAG",
+    "published": "2026-10-20"
+  },
+  {
+    "id": "2610.28340v1",
+    "title": "DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge",
+    "published": "2026-10-20"
+  },
+  {
+    "id": "2610.27852v1",
+    "title": "UvA-MT's Participation in the WMT26 General Translation Shared Task",
+    "published": "2026-10-20"
+  },
+  {
+    "id": "2610.27361v1",
+    "title": "On the LLM Verification for Argument Graph Generation",
+    "published": "2026-10-19"
+  },
+  {
+    "id": "2610.26730v1",
+    "title": "EpiLens: Lightweight RAG for Epidemiological Knowledge Acquisition",
+    "published": "2026-10-19"
+  },
+  {
+    "id": "2610.26511v1",
+    "title": "RouterWorld: Scaling Conversational AI with Latency-Aware LLM Routing",
+    "published": "2026-10-19"
+  },
+  {
+    "id": "2610.26425v1",
+    "title": "SNO-PI: Label-Scarce SNOMED CT Entity Linking with Pre-trained Encoders and Curated Terminology Knowledge",
+    "published": "2026-10-19"
+  },
+  {
+    "id": "2610.26339v1",
+    "title": "Large-Scale Biomedical RAG: Corpus Scaling, Document Representation, and Efficiency Trade-offs",
+    "published": "2026-10-19"
+  },
+  {
+    "id": "2610.25908v1",
+    "title": "CALM: Consistency-Aware Logit Masking in Decoding Space for Mitigating Overthinking of Large Reasoning Models",
+    "published": "2026-10-19"
+  },
+  {
+    "id": "2610.25678v1",
+    "title": "Cross-Pollination Retrieval: Finding Transferable Ideas Across Fields in Scientific Literature",
+    "published": "2026-10-19"
+  },
+  {
+    "id": "2610.25298v1",
+    "title": "Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI",
+    "published": "2026-10-18"
+  },
+  {
+    "id": "2610.25185v1",
+    "title": "Reranking Answers of Large Language Models with Knowledge Graphs",
+    "published": "2026-10-18"
+  },
+  {
+    "id": "2610.25182v1",
+    "title": "Dialogue Generation for Conversational Recommendation Using User Search Interactions and Knowledge Graphs",
+    "published": "2026-10-18"
+  },
+  {
+    "id": "2610.26951v1",
+    "title": "The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering",
+    "published": "2026-10-18"
+  },
+  {
+    "id": "2610.24990v1",
+    "title": "The World as Viewed by 136 Countries: An Open, Curated, Annotated, and Multilingual Dataset of 118 Million State Media Articles",
+    "published": "2026-10-18"
+  },
+  {
+    "id": "2610.24963v1",
+    "title": "DeGMatch: Target-Aware Reasoning Data Selection via Deconfounded Gradient Matching",
+    "published": "2026-10-18"
+  },
+  {
+    "id": "2610.26938v1",
+    "title": "GRaSP: Latency-Aware Optimization for Geo-Distributed Retrieval-Augmented Generation",
+    "published": "2026-10-17"
+  },
+  {
+    "id": "2610.24913v1",
+    "title": "A Cross-Domain Evaluation of Prompting Techniques for Large Language Models",
+    "published": "2026-10-17"
+  },
+  {
+    "id": "2610.24478v2",
+    "title": "Beyond Recall Saturation: Scaling Hard-Negative Reranker Training for Industrial Legal Retrieval",
+    "published": "2026-10-17"
+  },
+  {
+    "id": "2610.33047v1",
+    "title": "Parametric Session States Recover Retrieval Intent without Replaying History",
+    "published": "2026-10-17"
+  },
+  {
+    "id": "2610.24320v1",
+    "title": "The Judge Can Debias Itself: Awareness and Self-Debiasing for Reliable LLM-as-a-Judge",
+    "published": "2026-10-16"
+  },
+  {
+    "id": "2610.23588v1",
+    "title": "Enhancing RAG-based Medical VQA with Gated Multimodal Representations",
+    "published": "2026-10-16"
+  },
+  {
+    "id": "2610.22807v1",
+    "title": "On the Position Bias of Large Language Models: A Comprehensive Study",
+    "published": "2026-10-16"
+  },
+  {
+    "id": "2610.22797v1",
+    "title": "Reasoning Reranking with Semantic IDs as the Sole Item Representation",
+    "published": "2026-10-16"
+  },
+  {
+    "id": "2610.22652v1",
+    "title": "Evidence-Gated Bilingual RAG for Reliable Consumer Banking Search",
+    "published": "2026-10-15"
+  },
+  {
+    "id": "2610.22615v1",
+    "title": "When Does Uncertainty Measure RAG Hallucination Risk?",
+    "published": "2026-10-15"
+  },
+  {
+    "id": "2610.22588v1",
+    "title": "SAG2: Embedding-Free Multi-Hop Retrieval with BM25 and JEV",
+    "published": "2026-10-15"
+  },
+  {
+    "id": "2610.22511v1",
+    "title": "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
+    "published": "2026-10-15"
+  },
+  {
+    "id": "2610.22314v1",
+    "title": "MindEval2: Clinically Grounded Patients and Rubrics for Evaluating Language Models in Mental Health Support",
+    "published": "2026-10-15"
+  },
+  {
+    "id": "2610.21900v1",
+    "title": "TEM: Temporal State Tracking Memory for Large Language Model Agents",
+    "published": "2026-10-15"
+  },
+  {
+    "id": "2610.21184v1",
+    "title": "Beyond Retrieval Failure: Understanding Why LLMs Miss Evidence in Multi-Hop RAG",
+    "published": "2026-10-15"
+  },
+  {
+    "id": "2610.21006v1",
+    "title": "Can LLMs Anticipate Their Cruxes?",
+    "published": "2026-10-14"
+  },
+  {
+    "id": "2610.20419v2",
+    "title": "Analyzing performance of Retrieval Augmented Generation models for Question Answering Tasks",
+    "published": "2026-10-14"
+  },
+  {
+    "id": "2610.20367v1",
+    "title": "Cascaded Retrieval with Cross-Modal Query Refinement for Efficient Visual Document Search",
+    "published": "2026-10-14"
+  },
+  {
+    "id": "2610.19549v1",
+    "title": "GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation",
+    "published": "2026-10-14"
+  },
+  {
+    "id": "2610.19003v1",
+    "title": "Evaluating Large Language Models for Multilingual Abstractive Summarization: A Comprehensive Study of English and Bengali",
+    "published": "2026-10-13"
+  },
+  {
+    "id": "2610.18611v1",
+    "title": "Legal-R1: Agentic Retrieval for Evidence-Based Legal Reasoning",
+    "published": "2026-10-13"
+  },
+  {
+    "id": "2610.18526v1",
+    "title": "Retrieval Disagreement as a Signal: Diagnosing and Steering Multilingual Dense Embedders",
+    "published": "2026-10-13"
+  },
+  {
+    "id": "2610.37684v1",
+    "title": "An Introduction to Large Language Models for Scientists and Professionals",
+    "published": "2026-10-13"
+  },
+  {
+    "id": "2610.17673v1",
+    "title": "RALI@iKAT 2026: Retrieval-aware User Profile Denoising via Personalized Conversational Dense Retrieval",
+    "published": "2026-10-13"
+  },
+  {
+    "id": "2610.16440v1",
+    "title": "ARMED: Adaptive Retrieval-Augmented Medication Recommendation",
+    "published": "2026-10-12"
+  },
+  {
+    "id": "2610.16008v1",
+    "title": "Improving the Evaluation of Biomedical Question Answering with Few Human Preference Signals",
+    "published": "2026-10-12"
+  },
+  {
+    "id": "2610.15837v1",
+    "title": "KhyontekAI at CheckThat! 2026: Multilingual Dense Retrieval and Cross-Encoder Reranking for Scientific Web Claims",
+    "published": "2026-10-11"
+  },
+  {
+    "id": "2610.15832v1",
+    "title": "Local Citation Recommendation Without Graph Signals",
+    "published": "2026-10-11"
+  },
+  {
+    "id": "2610.15186v1",
+    "title": "SAFE-KV: Causal Suffix Repair for Behavior-Preserving Non-Prefix KV Cache Reuse in RAG",
+    "published": "2026-10-10"
+  },
+  {
+    "id": "2610.15179v1",
+    "title": "UDHRBench: Benchmarking Human Rights in Large Language Models",
+    "published": "2026-10-10"
+  },
+  {
+    "id": "2610.14789v1",
+    "title": "Training-Free BioNEL-RAG: Advancing Biomedical Entity Linking through Retrieval-Augmented Generation and Large Language Model",
+    "published": "2026-10-10"
+  },
+  {
+    "id": "2610.14531v2",
+    "title": "LongHisDoc: A Comprehensive Benchmark for Chinese Long Historical Document Understanding",
+    "published": "2026-10-10"
+  },
+  {
+    "id": "2610.13695v2",
+    "title": "Verifiable Retrieval for Legal Reasoning through Structure-driven Knowledge Graph",
+    "published": "2026-10-09"
+  },
+  {
+    "id": "2610.12975v1",
+    "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
+    "published": "2026-10-09"
+  },
+  {
+    "id": "2610.12243v1",
+    "title": "NativeScope: Relation-Localized Retrieval over Native Topology with a Correct Anchor",
+    "published": "2026-10-08"
+  },
+  {
+    "id": "2610.12083v1",
+    "title": "All Verdicts are Not Equal: Rethinking LLM Judge Reliability",
+    "published": "2026-10-08"
+  },
+  {
+    "id": "2610.12064v2",
+    "title": "ILM: An AI-Powered Storytelling Educational Tool",
+    "published": "2026-10-08"
+  },
+  {
+    "id": "2610.11922v1",
+    "title": "Project Greenhouse: Progress Toward Fully Open and Sovereign Agentic Search",
+    "published": "2026-10-08"
+  },
+  {
+    "id": "2610.11920v1",
+    "title": "Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents",
+    "published": "2026-10-08"
+  },
+  {
+    "id": "2610.11899v1",
+    "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+    "published": "2026-10-08"
+  },
+  {
+    "id": "2610.11314v1",
+    "title": "From Retrieval to Reconstruction: Constructing Evolvable Cognitive Memory for Long-Term Dialogue",
+    "published": "2026-10-08"
+  },
+  {
+    "id": "2610.11183v1",
+    "title": "RAG-Stress: Probing the Limits of Evidence Reliance in Retrieval-Augmented Generation",
+    "published": "2026-10-08"
+  },
+  {
+    "id": "2610.09412v1",
+    "title": "Finding the Right Balance: Relevance and Diversity in LLM Retrieval",
+    "published": "2026-10-07"
+  },
+  {
+    "id": "2610.09227v1",
+    "title": "Quantize by Drift: Label-Free Mixed-Precision Post-Training Quantization for Text Embedders",
+    "published": "2026-10-06"
+  },
+  {
+    "id": "2610.09026v1",
+    "title": "BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment",
+    "published": "2026-10-06"
+  },
+  {
+    "id": "2610.08463v1",
+    "title": "UNREAL: Unifying Retrieval and Long-Context with a Single Model",
+    "published": "2026-10-06"
+  },
+  {
+    "id": "2610.08452v1",
+    "title": "Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents",
+    "published": "2026-10-06"
+  },
+  {
+    "id": "2610.07731v1",
+    "title": "Learning to Retrieve via Reinforcement Learning in Embedding Space",
+    "published": "2026-10-06"
+  },
+  {
+    "id": "2610.07545v2",
+    "title": "Quality-Aware Self-Correcting Speech Translation on an Edge Device",
+    "published": "2026-10-06"
+  },
+  {
+    "id": "2610.07209v1",
+    "title": "Forecasting the Growth of Social Media Information Cascades: Towards Human-in-the-Loop Misinformation Triage",
+    "published": "2026-10-05"
+  },
+  {
+    "id": "2610.05343v1",
+    "title": "MemStrata: 95% and 90.91% Source-Aware Accuracy on LongMemEval-500 and LoCoMo-1540 with a Local Qwen 3.8 27B Q4_K_M Reader",
+    "published": "2026-10-04"
+  },
+  {
+    "id": "2610.05094v1",
+    "title": "How Much Do LLM-as-a-Judge Design Choices Matter? A Systematic Comparison of Prompt Designs, Rating Scales, and Models",
+    "published": "2026-10-04"
+  },
+  {
+    "id": "2610.04642v1",
+    "title": "Grounding Probes: Generator-Independent Hallucination Detection from Observer Model Hidden States",
+    "published": "2026-10-03"
+  },
+  {
+    "id": "2610.04162v1",
+    "title": "Principled Top-$k$ Selection for Language Models with Hybrid Gradients",
+    "published": "2026-10-03"
+  },
+  {
+    "id": "2610.03632v1",
+    "title": "World Embedding Benchmark",
+    "published": "2026-10-02"
+  },
+  {
+    "id": "2610.03421v1",
+    "title": "CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation",
+    "published": "2026-10-02"
+  },
+  {
+    "id": "2610.03136v1",
+    "title": "Investigating the Role of Reasoning-Language Alignment in Monolingual Retrieval-Augmented Generation",
+    "published": "2026-10-02"
+  },
+  {
+    "id": "2610.03130v1",
+    "title": "Benchmarking Literature Retrieval for a Model Organism: A Dictyostelium Case Study",
+    "published": "2026-10-02"
+  },
+  {
+    "id": "2610.02926v1",
+    "title": "Output Language Confusion under Multilingual Prompt Contamination",
+    "published": "2026-10-02"
+  },
+  {
+    "id": "2610.02877v1",
+    "title": "Evaluating LLM-as-a-Judge Beyond Score Alignment: A Psychometric Analysis of Residual Judging Difficulty",
+    "published": "2026-10-02"
+  },
+  {
+    "id": "2610.02432v2",
+    "title": "Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations",
+    "published": "2026-10-01"
+  },
+  {
+    "id": "2610.01767v1",
+    "title": "A Matryoshka Hierarchical RAG for Efficient Multi-Hop Question Answering",
+    "published": "2026-10-01"
+  },
+  {
+    "id": "2610.01218v1",
+    "title": "AGO AI Quality Gate: Evidence-First Release Decisions for Retrieval-Augmented Generation",
+    "published": "2026-10-01"
+  },
+  {
+    "id": "2610.01064v1",
+    "title": "JoinGR: Learning to Traverse Join Graphs for Table Retrieval",
+    "published": "2026-10-01"
+  },
+  {
+    "id": "2610.01027v1",
+    "title": "LawCompass: Navigating from Legal QA to Multi-Agent Deep Research with Grounded Evidence",
+    "published": "2026-10-01"
+  },
+  {
+    "id": "2610.20635v1",
+    "title": "Exploring the Design Space of Permutation Diffusion LLMs",
+    "published": "2026-10-01"
+  },
+  {
+    "id": "2609.40241v2",
+    "title": "Decision-Oriented Recommendation Reranking: An Empirical Study of Its Promise and Limitations",
+    "published": "2026-09-30"
+  },
+  {
+    "id": "2610.20634v1",
+    "title": "Jev-as-a-Judge for RAG Claim Verification: Confidence-Gated Cascading Between a Non-Generative Verifier and a Frontier LLM",
+    "published": "2026-09-30"
+  },
+  {
+    "id": "2610.00406v1",
+    "title": "LLM-as-a-Judge for Low-Resource Languages: Adapting Ragas and Comparative Ranking for Romanian",
+    "published": "2026-09-30"
+  },
+  {
+    "id": "2609.39369v1",
+    "title": "Exploring Heterogeneous Model Merging Approach for Complex Knowledge Transfer",
+    "published": "2026-09-30"
+  },
+  {
+    "id": "2610.06902v1",
+    "title": "Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical Retrieval for Long-Document QA",
+    "published": "2026-09-30"
+  },
+  {
+    "id": "2609.38099v1",
+    "title": "Effective Dense Retrieval using Only In-Context Examples",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.37832v1",
+    "title": "Can a Cacheable Decision Model Follow Rules?",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.37673v1",
+    "title": "KUPAS MASTER: Distilling the Tacit Expertise of Master Practitioners into Agent-Ready Experience Corpora",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.37661v1",
+    "title": "Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.37171v1",
+    "title": "Bridging Semantic Gaps in RAG through Generated Context Knowledge Fusion",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.36734v1",
+    "title": "Distilling What Matters: Confidence-Aware Selective Distillation for Large Language Models",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.36700v1",
+    "title": "Lost in Conversation or Lost in Translation? Diagnosing Multi-Turn Degradation in RAG",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.36550v1",
+    "title": "Grounded Revision vs. Prior Injection: Probing Retrieval-Augmented Patent Claim Amendment",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.36534v1",
+    "title": "Retrieval Sensitivity to Identity Signals in Queries",
+    "published": "2026-09-29"
+  },
+  {
+    "id": "2609.36201v1",
+    "title": "SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety",
+    "published": "2026-09-28"
+  },
+  {
+    "id": "2609.35629v1",
+    "title": "SANTA++: Sampling Attention through Representative Keys",
+    "published": "2026-09-28"
+  },
+  {
+    "id": "2609.34800v1",
+    "title": "Pass or Fail? Evaluating LLMs on Two Greek Examination Benchmarks",
+    "published": "2026-09-28"
+  },
+  {
+    "id": "2609.34227v1",
+    "title": "When Does Selection Replace Extraction? A Pre-Registered Test of Agent Memory with a Typed Decision Model",
+    "published": "2026-09-28"
+  },
+  {
+    "id": "2609.34179v1",
+    "title": "RAGWarrant: Evidence-Preserving Governance for RAG Policy Promotion Under Quality, Cost, Latency, and Risk Constraints",
+    "published": "2026-09-28"
+  },
+  {
+    "id": "2609.38222v1",
+    "title": "Conformal Factuality Control for Multi-Hop Retrieval-Augmented Generation",
+    "published": "2026-09-27"
+  },
+  {
+    "id": "2609.37469v1",
+    "title": "Relevance Is Not Sufficient Evidence: Detecting Evidence Gaps Before Generation in RAG",
+    "published": "2026-09-27"
+  },
+  {
+    "id": "2609.33390v1",
+    "title": "From Position Risks to Block Survival: Faster Generation for Diffusion Language Models",
+    "published": "2026-09-27"
+  },
+  {
+    "id": "2609.33183v1",
+    "title": "Identifying Temporal Features within Transcoders for Time Sensitive Factual Recall",
+    "published": "2026-09-27"
+  },
+  {
+    "id": "2609.32472v2",
+    "title": "AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research",
+    "published": "2026-09-26"
+  },
+  {
+    "id": "2609.32160v1",
+    "title": "Typed Decision Models: An Early Evidence Audit and Evaluation Checklist",
+    "published": "2026-09-26"
+  },
+  {
+    "id": "2609.31397v1",
+    "title": "Intent2Tc: Automated Intent-to-Traffic Control Translation with Language Models",
+    "published": "2026-09-25"
+  },
+  {
+    "id": "2609.31342v1",
+    "title": "Stale-Document Poisoning: When Outdated Retrieval Overrides Correct Model Answers",
+    "published": "2026-09-25"
+  },
+  {
+    "id": "2609.31002v1",
+    "title": "ZooWork-ShopRanker: An Open, Preference-Aligned E-Commerce Reranker",
+    "published": "2026-09-25"
+  },
+  {
+    "id": "2609.30849v1",
+    "title": "Enhancing Assessment of Self-Consistency in LLM Explanations using Perturbation Strength",
+    "published": "2026-09-25"
+  },
+  {
+    "id": "2609.30471v1",
+    "title": "CARGO: Context-Aware Retrieval-Gated Evaluation of Agentic AI in Production",
+    "published": "2026-09-24"
+  },
+  {
+    "id": "2609.30087v1",
+    "title": "Return or Revise? Learning When Revision Helps Retrieval-Augmented QA",
+    "published": "2026-09-24"
+  },
+  {
+    "id": "2609.30009v1",
+    "title": "Automated Regulatory Compliance Question Answering in Financial Services with Domain-Adapted Retrieval-Augmented Generation",
+    "published": "2026-09-24"
+  },
+  {
+    "id": "2609.29933v1",
+    "title": "An Empirical Study of VLM Pipelines for Long-Document QA",
+    "published": "2026-09-24"
+  },
+  {
+    "id": "2609.29474v1",
+    "title": "CodeGraph: Open-Taxonomy Knowledge Graph for Source Code with Wikidata Grounding",
+    "published": "2026-09-24"
+  },
+  {
+    "id": "2609.29075v1",
+    "title": "CRISS: A Retrieval-Augmented AI Chatbot for Assisting Cancer Registrars",
+    "published": "2026-09-24"
+  },
+  {
+    "id": "2609.35831v1",
+    "title": "Beyond the Context Window: An Adaptive Entropy-Based Routing Framework for Hybrid Retrieval and Long-Context Language Models",
+    "published": "2026-09-23"
+  },
+  {
+    "id": "2609.28290v1",
+    "title": "Computation Over Geometry: Meaning Identity Is Computed, Not Shipped in the Embeddings",
+    "published": "2026-09-23"
+  },
+  {
+    "id": "2609.28245v1",
+    "title": "Beyond Poetry: Can Large Language Models Generate Classical Arabic Maqamat?",
+    "published": "2026-09-23"
+  },
+  {
+    "id": "2609.28048v1",
+    "title": "TEMPS: Temporal Sentence Embeddings for Temporal Information Retrieval",
+    "published": "2026-09-23"
+  },
+  {
+    "id": "2609.27380v2",
+    "title": "MORSE: Multi-Context Ordering via Reverse Scoring for Evidence-Preserving Compression",
+    "published": "2026-09-23"
+  },
+  {
+    "id": "2609.27376v1",
+    "title": "Cross-Lingual Legal QA for Vietnamese Labour Law: Retrieval, Translation, and Verifier-Guided Correction",
+    "published": "2026-09-23"
+  },
+  {
+    "id": "2609.27225v1",
+    "title": "Meet, Compare, or Abstain: LatWeave for Deterministic Multi-Hop Question Answering on Knowledge Lattices",
+    "published": "2026-09-23"
+  },
+  {
+    "id": "2609.26976v1",
+    "title": "When Learned Context Planning Fails to Beat Strong Retrieval: A Controlled Study of Planning, Routing, and Reranking for Long-Context QA",
+    "published": "2026-09-22"
+  },
+  {
+    "id": "2609.26489v1",
+    "title": "Calibration as a First-Class Criterion in LLM Evaluation",
+    "published": "2026-09-22"
+  },
+  {
+    "id": "2609.26034v1",
+    "title": "Domain-Adaptive Pretraining Enhances Water Treatment Semantic Representation for Large-Scale Structured Literature Mining",
+    "published": "2026-09-22"
+  },
+  {
+    "id": "2609.25859v1",
+    "title": "BELXTR: Biomedical Entity Linking via Contextualized Token Retrieval",
+    "published": "2026-09-22"
+  },
+  {
+    "id": "2609.24194v1",
+    "title": "When Residualization Helps an Audit: Format Effects, Slice Gains, and Their Limits",
+    "published": "2026-09-21"
+  },
+  {
+    "id": "2609.24122v2",
+    "title": "Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines",
+    "published": "2026-09-21"
+  },
+  {
+    "id": "2609.23880v1",
+    "title": "Q-TIE: A Lightweight and Generalizable Re-ranking Framework for Temporal Information Retrieval",
+    "published": "2026-09-20"
+  },
+  {
+    "id": "2609.23808v1",
+    "title": "FLARE: A Full-Lifecycle Dense Supervision Paradigm for Long-Horizon Coding Agents via Generative Reward Model",
+    "published": "2026-09-20"
+  },
+  {
+    "id": "2609.23056v2",
+    "title": "Bridging Static and Agentic RAG for Taiwanese Historical Question Answering",
+    "published": "2026-09-19"
+  },
+  {
+    "id": "2609.22977v1",
+    "title": "Beyond Similarity: Coverage-Aware Prompt Selection for Time Series Forecasting with LLMs",
+    "published": "2026-09-19"
+  },
+  {
+    "id": "2609.22971v1",
+    "title": "Automatic multimodal UX improvement recommendations from LLM agent user simulations",
+    "published": "2026-09-19"
+  },
+  {
+    "id": "2609.22880v1",
+    "title": "Per-Query Gating of LLM Rerankers for Multi-Hop Retrieval",
+    "published": "2026-09-19"
+  },
+  {
+    "id": "2609.35806v1",
+    "title": "From Lexical Baselines to Agentic Retrieval-Augmented Generation: Structured Skill and Responsibility-Level Extraction with the SFIA Framework",
+    "published": "2026-09-19"
+  },
+  {
+    "id": "2609.22796v1",
+    "title": "AlexandriaX 2026: The First Shared Task on Dialectal Arabic Machine Translation",
+    "published": "2026-09-19"
+  },
+  {
+    "id": "2609.22705v1",
+    "title": "Analyzing Public Discourse on Urbanism: Topic Clustering, Sentiment Analysis and Retrieval-Augmented Generation using YouTube Comments",
+    "published": "2026-09-19"
+  },
+  {
+    "id": "2609.22043v1",
+    "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+    "published": "2026-09-18"
+  },
+  {
+    "id": "2609.22038v1",
+    "title": "QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Quranic Linguistic Knowledge",
+    "published": "2026-09-18"
+  },
+  {
+    "id": "2609.20584v1",
+    "title": "SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment",
+    "published": "2026-09-17"
+  },
+  {
+    "id": "2609.20131v1",
+    "title": "Think Thrice Before Reranking: Multi-perspective Evidence and Reasoning Integration for Text Reranking",
+    "published": "2026-09-17"
+  },
+  {
+    "id": "2609.20050v2",
+    "title": "The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents",
+    "published": "2026-09-17"
+  },
+  {
+    "id": "2609.19634v1",
+    "title": "Scientific Image Quality Assessment via Multi-modal Retrieval-Augmented Generation",
+    "published": "2026-09-17"
+  },
+  {
+    "id": "2609.19417v1",
+    "title": "Less Is More: Graph-free Multimodal RAG via Multi-signal Late Fusion",
+    "published": "2026-09-16"
+  },
+  {
+    "id": "2609.31684v1",
+    "title": "The Temporal Tug-of-War: Visualizing and Detecting RAG Conflicts in Diffusion Models via Trajectory Variance",
+    "published": "2026-09-16"
+  },
+  {
+    "id": "2609.18690v1",
+    "title": "RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection",
+    "published": "2026-09-16"
+  },
+  {
+    "id": "2609.18317v2",
+    "title": "Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering",
+    "published": "2026-09-16"
+  },
+  {
+    "id": "2609.18204v1",
+    "title": "Beyond Accuracy: How Procedural Traces Shift the Decision Criterion of LLM Overseers",
+    "published": "2026-09-16"
+  },
+  {
+    "id": "2609.17764v1",
+    "title": "How Calibration Content Shapes Attention-Based Reranking",
+    "published": "2026-09-15"
+  },
+  {
+    "id": "2609.16912v1",
+    "title": "Lit3R: Retrieve-Relate-Read for Evidence-Grounded Question Answering over Scientific Literature",
+    "published": "2026-09-15"
+  },
+  {
+    "id": "2609.16816v1",
+    "title": "ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals",
+    "published": "2026-09-15"
+  },
+  {
+    "id": "2609.31660v1",
+    "title": "Parser, Chunking, and Embedding Interactions in Retrieval-Augmented Generation over Indian Government Regulatory Documents",
+    "published": "2026-09-15"
+  },
+  {
+    "id": "2609.16501v1",
+    "title": "Beyond the Name: Demographic Leakage in De-Identified R\u00e9sum\u00e9s and Evaluation Artifacts in LLM Bias Audits",
+    "published": "2026-09-15"
+  },
+  {
+    "id": "2609.16301v1",
+    "title": "CLEAR: Cross-Source Evidence Adjudication for Large Language Models in Medicine",
+    "published": "2026-09-14"
+  },
+  {
+    "id": "2609.15982v2",
+    "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+    "published": "2026-09-14"
+  },
+  {
+    "id": "2609.15830v1",
+    "title": "CiteGuard-RAG: A Validation-Centered AI System for Evidence-Grounded Question Answering",
+    "published": "2026-09-14"
+  },
+  {
+    "id": "2609.16095v1",
+    "title": "RAG-CT: Mitigating Privacy Risks on Retrieval-Augmented Generation Systems via Scanning Prompt Distribution",
+    "published": "2026-09-14"
+  },
+  {
+    "id": "2609.15660v1",
+    "title": "CiteShade: Citation Laundering in Multi-Source Retrieval-Augmented Generation and Its Counterfactual Defense",
+    "published": "2026-09-14"
+  },
+  {
+    "id": "2609.15618v2",
+    "title": "IROH: Insightful Ranking Of Humor using Multi-Stage Hybrid Retrieval with Rationale-Distilled LLM Judges for JOKER 2026 Track Task 1 English",
+    "published": "2026-09-14"
+  },
+  {
+    "id": "2609.14739v1",
+    "title": "Building Legal Reward Models for Grounding and Abstention",
+    "published": "2026-09-13"
+  },
+  {
+    "id": "2609.16073v1",
+    "title": "The Immutable Past: Formalizing State Mutability and Conflict Resolution in Mutable RAG",
+    "published": "2026-09-13"
+  },
+  {
+    "id": "2609.14565v1",
+    "title": "TATK: Triple-Aware Top-K Learning with Knowledge-Grounded Verification for LLM-based Sequential Recommendation",
+    "published": "2026-09-13"
+  },
+  {
+    "id": "2609.30295v1",
+    "title": "SignTrace: Describe a Sign, Find the Word",
+    "published": "2026-09-13"
+  },
+  {
+    "id": "2609.14412v1",
+    "title": "Question's Gambit: The First Move Matters in Agentic Deep Search",
+    "published": "2026-09-13"
+  },
+  {
+    "id": "2609.14245v1",
+    "title": "The Attribution-Compression Frontier in Retrieval-Augmented Generation",
+    "published": "2026-09-13"
+  },
+  {
+    "id": "2609.14168v1",
+    "title": "Towards Evolving Context Parameterization for Large Language Models",
+    "published": "2026-09-12"
+  },
+  {
+    "id": "2609.14066v1",
+    "title": "GraMRAG: Orchestrating Multi-Agent Multi-Step Reasoning via Graph Memory with Reinforcement Learning",
+    "published": "2026-09-12"
+  },
+  {
+    "id": "2609.13860v1",
+    "title": "ClinAgent: A ReAct-Based Agent for Conversational Access to Clinical Trial Information",
+    "published": "2026-09-12"
+  },
+  {
+    "id": "2609.13856v1",
+    "title": "ShopEase: A Generative AI-Based Multi-Agent Framework for Intelligent Enterprise Customer Support Using Hybrid Retrieval-Augmented Generation",
+    "published": "2026-09-12"
+  },
+  {
+    "id": "2609.13824v1",
+    "title": "When Consistency Does Not Mean Reliability: Evaluating Local LLM Judges Against Human Ratings",
+    "published": "2026-09-12"
+  },
+  {
+    "id": "2609.13773v1",
+    "title": "Does Reasoning Improve Psychological Depth in Large Language Models? It Depends on Who's Judging",
+    "published": "2026-09-12"
+  },
+  {
+    "id": "2609.13486v1",
+    "title": "Mixture-of-Experts Language Models Can Be Strong and Efficient Retrievers",
+    "published": "2026-09-11"
+  },
+  {
+    "id": "2609.13005v1",
+    "title": "Tasks over Application Manuals: Revealing Gaps in Long-Horizon Procedural Reasoning for Language Models",
+    "published": "2026-09-11"
+  },
+  {
+    "id": "2609.12913v2",
+    "title": "Parameter-Efficient Retrievers for Polish and European Languages",
+    "published": "2026-09-11"
+  },
+  {
+    "id": "2609.12791v1",
+    "title": "Cognition on Graph: Navigating Massive Knowledge Space via Cognitive Cycles and Bidirectional Graph-Text Synergy",
+    "published": "2026-09-11"
+  },
+  {
+    "id": "2609.12489v1",
+    "title": "Confidence-Gated Transductive Test Generation for Code Reranking",
+    "published": "2026-09-11"
+  },
+  {
+    "id": "2609.12268v1",
+    "title": "EAR: Entity-Aware Partitioning Approach for Retrieval-Augmented Generation Development",
+    "published": "2026-09-10"
+  },
+  {
+    "id": "2609.12191v1",
+    "title": "GAUGE: When Not to Trust LLM-as-a-Judge in User-Simulated Evaluation of Task-Oriented Agents",
+    "published": "2026-09-10"
+  },
+  {
+    "id": "2609.11758v1",
+    "title": "RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety",
+    "published": "2026-09-10"
+  },
+  {
+    "id": "2609.11390v1",
+    "title": "VikingRAG: Accurate and Token-efficient Retrieval-augmented Generation over Structured Documents",
+    "published": "2026-09-10"
+  },
+  {
+    "id": "2609.11209v1",
+    "title": "REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving",
+    "published": "2026-09-10"
+  },
+  {
+    "id": "2609.10996v1",
+    "title": "Rethinking Verbalized Confidence for LLM-as-a-Judge: A Compatibility Shift on Post-2025 Proprietary Models",
+    "published": "2026-09-10"
+  },
+  {
+    "id": "2609.10237v1",
+    "title": "The Answer Path and the Grounding Instruction in LLM Question Answering over Knowledge Graphs",
+    "published": "2026-09-09"
+  },
+  {
+    "id": "2609.10155v1",
+    "title": "From Retrieval to Weights: Parametric Individualization of Small Language Models with Individual Text Corpora",
+    "published": "2026-09-09"
+  },
+  {
+    "id": "2609.09768v1",
+    "title": "Fine-Tuning a KV Cache Concatenation-Aware Model or Recomputing KV Caches? Why Not Both?",
+    "published": "2026-09-09"
+  },
+  {
+    "id": "2609.09569v1",
+    "title": "Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications",
+    "published": "2026-09-09"
+  },
+  {
+    "id": "2609.09363v1",
+    "title": "Do LLMs Make More Mistakes If They Do Not Believe the Input Data?",
+    "published": "2026-09-08"
+  },
+  {
+    "id": "2609.08703v2",
+    "title": "TontaubeV1: Streaming Text-to-Speech with Hierarchical Codec Modeling and Bounded Context",
+    "published": "2026-09-08"
+  },
+  {
+    "id": "2609.09243v2",
+    "title": "In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Post-Retrieval Context Tampering",
+    "published": "2026-09-08"
+  },
+  {
+    "id": "2610.00092v1",
+    "title": "BudgetSchemaBench: A Budget-Swept Diagnostic for Schema Context in Text-to-SQL",
+    "published": "2026-09-08"
+  },
+  {
+    "id": "2609.07663v1",
+    "title": "No\u0113sis: Deterministic-First Retrieval with Two-Tier Context Hydration for Factuality-Critical Queries on Small Local Models",
+    "published": "2026-09-07"
+  },
+  {
+    "id": "2609.07120v1",
+    "title": "PTCG: Persona-guided Tree-based Counterargument Generation",
+    "published": "2026-09-07"
+  },
+  {
+    "id": "2609.07093v2",
+    "title": "Where to Look and What to Use: Retrieve-Localize-Generate for Long-Term Conversational Memory Question Answering",
+    "published": "2026-09-07"
+  },
+  {
+    "id": "2609.06391v1",
+    "title": "Building Trustworthy Graph-Agentic RAG for Social Good: Architectures, Failure Propagation, and Assurance by Construction",
+    "published": "2026-09-06"
+  },
+  {
+    "id": "2609.22248v1",
+    "title": "Checkpoints Are Not Enough: Trust Calibration in CoSLR, a Human-AI System for Systematic Literature Reviews",
+    "published": "2026-09-05"
+  },
+  {
+    "id": "2609.05910v1",
+    "title": "UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms",
+    "published": "2026-09-05"
+  },
+  {
+    "id": "2609.05637v2",
+    "title": "Better Together: Complementary Query Rewriting Under a Strong RAG Baseline",
+    "published": "2026-09-04"
+  },
+  {
+    "id": "2609.05339v1",
+    "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
+    "published": "2026-09-04"
+  },
+  {
+    "id": "2609.05152v2",
+    "title": "Compression Beyond the Uncompressed: A Two-Stage Training Recipe for Soft Context Compression in RAG",
+    "published": "2026-09-04"
+  },
+  {
+    "id": "2609.05139v1",
+    "title": "NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing",
+    "published": "2026-09-04"
+  },
+  {
+    "id": "2609.04999v1",
+    "title": "BIT.UA at BioASQ 14B: Modular Retrieval with pg_textsearch and Qdrant, and Agent-Based Answer Generation",
+    "published": "2026-09-04"
+  },
+  {
+    "id": "2609.04647v1",
+    "title": "CAGE: Coherence-Aware Graph Encoding for Retrieval-Augmented Generation",
+    "published": "2026-09-04"
+  },
+  {
+    "id": "2609.04598v1",
+    "title": "PetQA: Benchmarking Veterinary Knowledge and Clinical Reasoning",
+    "published": "2026-09-04"
+  },
+  {
+    "id": "2609.04579v2",
+    "title": "Does the Selected Object Reach the Reader? Auditing Identity Handoffs in Grounded Language-Model Pipelines",
+    "published": "2026-09-04"
+  },
+  {
+    "id": "2609.04511v1",
+    "title": "LentEx: Generalizable Latent Entity Extraction via Synthetic Data and Instruction-Tuned LLMs",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.04442v1",
+    "title": "GRACE: Graph-Grounded Reflective Agent Copilot Engine for Expert-in-the-Loop Knowledge Expansion",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.04366v1",
+    "title": "VERGE: Verification-Enhanced Refinement for Grounded Extraction of Early-Onset Colorectal Cancer Symptoms in Clinical Notes",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.04083v1",
+    "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.03992v1",
+    "title": "Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.03953v1",
+    "title": "Beyond Majority Vote: Multi-Perspective Adjudication for Medical Hallucination Detection",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.03749v1",
+    "title": "Rent-a-RAG: Embedding-Space Watermarks for Auditing Third-Party RAG",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.04290v1",
+    "title": "Evidence Integration in Large Language Models",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.03654v1",
+    "title": "Enhancing Financial Question Answering: A Novel Benchmark Dataset of Banks' financial statements",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.03454v1",
+    "title": "When Retrieval Helps: Selective Retrieval for Single-Turn Mental-Health QA",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.03432v1",
+    "title": "Decoupled Analysis-Judging: An Automated Creativity Evaluator Using LLMs in Complex Multi-step Creativity Tasks",
+    "published": "2026-09-03"
+  },
+  {
+    "id": "2609.02486v2",
+    "title": "ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering",
+    "published": "2026-09-02"
+  },
+  {
+    "id": "2609.02396v1",
+    "title": "Improving Health Literacy through Lay Summarization of Radiological Reports: An Evaluation of BioNER and Retrieval-Augmented Generation",
+    "published": "2026-09-02"
+  },
+  {
+    "id": "2609.02366v1",
+    "title": "NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning",
+    "published": "2026-09-02"
+  },
+  {
+    "id": "2609.02054v1",
+    "title": "A Tri-Agent Framework for Evaluating and Aligning Question Clarification Capabilities of Large Language Models",
+    "published": "2026-09-02"
+  },
+  {
+    "id": "2609.02954v1",
+    "title": "LexIssue: Benchmarking Legal Issue Identification in Chinese Civil Litigation",
+    "published": "2026-09-02"
+  },
+  {
+    "id": "2609.01772v1",
+    "title": "MemeCULT-1K: Benchmarking South Asian Cultural Context and Humor Understanding of Multimodal Models",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01601v1",
+    "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01456v1",
+    "title": "AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01432v1",
+    "title": "Citing Less Critically: LLMs Reshape the Rhetoric and Reach of Scientific Citation",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01325v1",
+    "title": "VerTox: Verifiable Reward-Guided Corpus Poisoning Against Neural Ranking Models",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01316v1",
+    "title": "MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01139v1",
+    "title": "Does task decomposition improve automatic NLG evaluation?",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01111v1",
+    "title": "ClinTraceBench: Source-Verifiable Longitudinal Clinical Reasoning over EHR-Derived Dialogues",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01073v1",
+    "title": "Post-hoc Alignment of LLM-judges to Human Judgment Distribution",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.01056v1",
+    "title": "WorldBench: Culturally Grounded Benchmark for Multilingual Agents",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.00858v2",
+    "title": "Verifiable Disaster Storylines and Causal Knowledge Graphs: A Citation-Grounded Pipeline from Heterogeneous Humanitarian Sources",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.00689v2",
+    "title": "SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.00629v1",
+    "title": "ExpArt-KG: Artwork Image Description Generation through Iterative Exploration of Knowledge Graphs",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.00588v4",
+    "title": "Quit While You're Ahead: Quit for Efficient Candidate Generation in Machine Translation Reranking",
+    "published": "2026-09-01"
+  },
+  {
+    "id": "2609.00494v1",
+    "title": "Human-Anchored Factuality Evaluation with Strategic Annotation",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2609.00470v1",
+    "title": "TRIS: A Tri-Layer Retrieval Integrity Sieve Against Knowledge Poisoning",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2609.00434v1",
+    "title": "SAGE: State-Grounded, Abstention-Aware Evaluation of Task-Oriented Dialogue Agents",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2609.02942v1",
+    "title": "Judging LLM-as-a-Judge: Concerning Rubric Artifacts in LLM-based Automated Text Generation Evaluation",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.31139v1",
+    "title": "Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.31035v1",
+    "title": "When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.30996v1",
+    "title": "Faithfulness Is Not Free: Auditing Offline KV-Cache Quantization in Retrieval-Augmented Generation",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.30929v1",
+    "title": "Annotated Surrogate Retrieval for Polish Statutory Law",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.30924v1",
+    "title": "TRIPPULSE: Multi-Agent Travel Planning with Review-Grounded Reasoning",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.30902v1",
+    "title": "Low-Resource Preference Adaptation of LLMs via Activation-Based Label Propagation",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2609.01658v1",
+    "title": "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2609.29709v2",
+    "title": "Three Ways Classical Test Theory Can Mislead About LLM Judges",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2609.00086v1",
+    "title": "Retrieval, Scoring, and Decoding Shape Performance and Stability in LLM-based Conversational Recommendation",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.30428v1",
+    "title": "Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied Social Interactions",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.30398v1",
+    "title": "Beyond Polarization: The Generative Constraint of Chain-of-Thought in Pointwise Reranking",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.30258v3",
+    "title": "Stratified Consistency Distillation for Natural Language Formalization",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.30213v1",
+    "title": "Towards a Joint Khmer Text Recognition and Word Segmentation",
+    "published": "2026-08-31"
+  },
+  {
+    "id": "2608.29899v2",
+    "title": "REIGN: Refurbished Embeddings with Integrated Guidance Networks for Efficient Context-Length Scaling",
+    "published": "2026-08-30"
+  },
+  {
+    "id": "2608.29345v1",
+    "title": "BIRD-History: A Benchmark for History-Driven Text-to-SQL with Fine-Grained Knowledge Annotations",
+    "published": "2026-08-29"
+  },
+  {
+    "id": "2608.28496v2",
+    "title": "Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation",
+    "published": "2026-08-28"
+  },
+  {
+    "id": "2608.28467v1",
+    "title": "Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation",
+    "published": "2026-08-28"
+  },
+  {
+    "id": "2608.28389v1",
+    "title": "CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents",
+    "published": "2026-08-28"
+  },
+  {
+    "id": "2608.27661v1",
+    "title": "Knowing Before Answering: Decoding Language Models for Reliable RAG",
+    "published": "2026-08-27"
+  },
+  {
+    "id": "2608.27394v4",
+    "title": "RATIO: A Benchmark for Retrieval Across Typed Ideation Operations in Scientific Literature",
+    "published": "2026-08-27"
+  },
+  {
+    "id": "2608.26982v1",
+    "title": "JudgeStealer: Extracting LLM Judging Capabilities across Evaluation Protocols",
+    "published": "2026-08-27"
+  },
+  {
+    "id": "2608.26836v1",
+    "title": "SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers",
+    "published": "2026-08-27"
+  },
+  {
+    "id": "2608.26762v2",
+    "title": "Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers",
+    "published": "2026-08-27"
+  },
+  {
+    "id": "2608.26529v1",
+    "title": "Multi-Expert Conformal Risk Control for Pairwise LLM Judging in Open-Ended Dialogue",
+    "published": "2026-08-27"
+  },
+  {
+    "id": "2608.26385v1",
+    "title": "Why RAGs Hallucinate: Penalty-Aware Evaluation of Retrieval-Augmented Generation Systems with Knowledge-Gap Canaries",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.26379v1",
+    "title": "Assessing the Downstream Utility of Evidence-Aware Retrieval in RAG",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.26344v1",
+    "title": "MoganColBERT-TR: A Late-Interaction Multi-Vector Retrieval Model for Turkish",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.26292v1",
+    "title": "On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.26091v1",
+    "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2609.22162v1",
+    "title": "Beyond Raw Context Transfer: Representation-based Federated Retrieval-Augmented Generation",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.25869v1",
+    "title": "Anchoring Bias in LLM-as-a-Judge Systems: Prior Scores Compromise Evaluation Independence",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.25854v1",
+    "title": "Key Point Analysis Needs Structure Recovery: Task Definition, Dataset Diagnosis, and a Structure-Aware Benchmark",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.25717v1",
+    "title": "When RAG Fails to Equalize: Geo-bias in Factual Question Answering over Public Companies",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.25487v1",
+    "title": "ReliableRAG: Combating Misinformation in Retrieval-Augmented Generation via Reliability-Guided Reasoning Chains",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.25486v1",
+    "title": "PonsRAG: A Pons-Inspired RAG Bridging Cognitive Islands for Coordinated Long Narrative Reasoning",
+    "published": "2026-08-26"
+  },
+  {
+    "id": "2608.25123v1",
+    "title": "SelfGraphRAG: Bridging the Supervision Gap in Graph-Based RAG with Synthetic QA Generation",
+    "published": "2026-08-25"
+  },
+  {
+    "id": "2608.25115v1",
+    "title": "Less can be More: Relieving RAG Bottlenecks via Evidence Frontloading and Pressure-Adaptive Budgeting",
+    "published": "2026-08-25"
+  },
+  {
+    "id": "2608.24977v2",
+    "title": "Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation",
+    "published": "2026-08-25"
+  },
+  {
+    "id": "2608.24753v1",
+    "title": "The RAT: A Unified Bayesian Model for RAG Evaluation",
+    "published": "2026-08-25"
+  },
+  {
+    "id": "2608.28675v1",
+    "title": "Multi-Agent Self-Improving Reinforcement Learning for Video Reasoning",
+    "published": "2026-08-25"
+  },
+  {
+    "id": "2608.24060v1",
+    "title": "SQLite is Enough. Lexical, Semantic, and Hybrid Search with scrydb",
+    "published": "2026-08-25"
+  },
+  {
+    "id": "2608.23961v1",
+    "title": "Evaluating Language Models on Cross-Language Code Functional Equivalence",
+    "published": "2026-08-25"
+  },
+  {
+    "id": "2608.23783v1",
+    "title": "Inter-dimension Dependence for Multi-Dimensional Evaluation of Open-Ended Text",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.23705v2",
+    "title": "The Limits of Automatic Evaluation of Creativity in Large Language Models",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.23419v2",
+    "title": "Robustness of IR Models to Collection Growth",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.23338v1",
+    "title": "The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.23252v1",
+    "title": "The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.26194v1",
+    "title": "A Reranker for Orchestrating Heterogeneous Speech and Text Retrievers",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.22917v1",
+    "title": "TSWAP: A Multilingual Retrieval-Augmented Thai Wellness Advisor",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.26192v2",
+    "title": "Comparing Chunking and Embedding Strategies for Turkish RAG Systems",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.22872v2",
+    "title": "Better Retrieval, Worse Robustness: How Multi-hop RAG Amplifies Upstream ASR Errors",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.22695v1",
+    "title": "Enrich-Retrieve-Rank: Scaling Capability Discovery Beyond In-Context Routing",
+    "published": "2026-08-24"
+  },
+  {
+    "id": "2608.22634v1",
+    "title": "GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering",
+    "published": "2026-08-23"
+  },
+  {
+    "id": "2608.22479v2",
+    "title": "GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning",
+    "published": "2026-08-23"
+  },
+  {
+    "id": "2608.22251v1",
+    "title": "CAIA in Practice: Field Evaluation of an AI-Assisted Support System for Text-Based Online Counselling",
+    "published": "2026-08-23"
+  },
+  {
+    "id": "2608.22081v1",
+    "title": "W-RAG: Source-Aware Retrieval for Enterprise Document Generation from Heterogeneous Knowledge Bases",
+    "published": "2026-08-22"
+  },
+  {
+    "id": "2608.21829v2",
+    "title": "Training a Knowledge Base: Supervised Structure Learning for Agent-Curated Document Stores",
+    "published": "2026-08-22"
+  },
+  {
+    "id": "2608.21808v1",
+    "title": "MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning",
+    "published": "2026-08-22"
+  },
+  {
+    "id": "2608.21750v1",
+    "title": "FCPRAG: Fusion-Controller Parametric Retrieval-Augmented Generation for Stable Multi-Passage LoRA Injection",
+    "published": "2026-08-22"
+  },
+  {
+    "id": "2608.21702v2",
+    "title": "From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism",
+    "published": "2026-08-22"
+  },
+  {
+    "id": "2608.21656v1",
+    "title": "Mitigating Database Leakage in RAG Systems with Keyword-Grounded Fact Substitution",
+    "published": "2026-08-21"
+  },
+  {
+    "id": "2608.21529v1",
+    "title": "DamageScope: Vision-Language Retrieval at Scale for Disaster Damage Assessment from Satellite Imagery",
+    "published": "2026-08-21"
+  },
+  {
+    "id": "2608.21252v1",
+    "title": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
+    "published": "2026-08-21"
+  },
+  {
+    "id": "2608.21095v1",
+    "title": "Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems",
+    "published": "2026-08-21"
+  },
+  {
+    "id": "2608.20801v1",
+    "title": "Profiling What Matters: Context-Aware Item Profiles from Large-Scale Metadata for LLM Recommenders",
+    "published": "2026-08-21"
+  },
+  {
+    "id": "2608.20685v1",
+    "title": "Temporal Validity on Real Software Histories: Eliminating Stale-Fact Errors in Code-Assistant Memory over GitHub Fixes",
+    "published": "2026-08-21"
+  },
+  {
+    "id": "2608.20627v1",
+    "title": "When Failures Propagate: Causal Failure Attribution in Agentic Retrieval-Augmented Generation",
+    "published": "2026-08-20"
+  },
+  {
+    "id": "2609.22124v1",
+    "title": "Balancing Reasoning and Hardware Constraints in RAG Pipelines for Ukrainian Multi-Domain Document Understanding",
+    "published": "2026-08-20"
+  },
+  {
+    "id": "2609.27844v1",
+    "title": "Agentic Governance and Adversarial Verification for Policy-Constrained LLM Healthcare Appeal Generation",
+    "published": "2026-08-20"
+  },
+  {
+    "id": "2608.19825v1",
+    "title": "Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment",
+    "published": "2026-08-20"
+  },
+  {
+    "id": "2608.19802v1",
+    "title": "Stopping and Routing LLM Judge Panels",
+    "published": "2026-08-20"
+  },
+  {
+    "id": "2608.26180v1",
+    "title": "PACEShop: Evaluating Personalized, Actionable, Compositional, and Evidence-grounded Shopping Assistants",
+    "published": "2026-08-20"
+  },
+  {
+    "id": "2608.19535v1",
+    "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
+    "published": "2026-08-20"
+  },
+  {
+    "id": "2608.19526v1",
+    "title": "Automated Summarization of Financial News Using Large Language Models and Retrieval-Augmented Generation: An Early Empirical Study (Fall 2023)",
+    "published": "2026-08-20"
+  },
+  {
+    "id": "2608.18752v3",
+    "title": "GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval",
+    "published": "2026-08-19"
+  },
+  {
+    "id": "2608.18489v1",
+    "title": "MissDiag: Diagnostic Evaluation of Incomplete-Knowledge Robustness in KGQA and KG-RAG",
+    "published": "2026-08-19"
+  },
+  {
+    "id": "2608.17950v2",
+    "title": "Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds",
+    "published": "2026-08-18"
+  },
+  {
+    "id": "2608.17781v1",
+    "title": "Preference Is Not Intervention: The Structure and Stability Boundaries of Reader-Specific Evidence Utility",
+    "published": "2026-08-18"
+  },
+  {
+    "id": "2608.17536v2",
+    "title": "CoAL-RAG: A Complexity-Aware Legal Retrieval-Augmented Generation Method",
+    "published": "2026-08-18"
+  },
+  {
+    "id": "2608.17168v2",
+    "title": "Can LLMs Reason in a Legally Meaningful Manner? A Small-scale Study on European Court of Human Rights Cases",
+    "published": "2026-08-17"
+  },
+  {
+    "id": "2608.17153v4",
+    "title": "When Detection Does Not Guarantee Resistance: Reasoning and Poisoned Context in RAG",
+    "published": "2026-08-17"
+  },
+  {
+    "id": "2608.27470v1",
+    "title": "Select, Don't Train: The Benefits of Modular Entity Disambiguation with LLM-Based Selection",
+    "published": "2026-08-17"
+  },
+  {
+    "id": "2608.16536v1",
+    "title": "DSPrompt: Dynamic Soft Prompt Defense Against M-RAG Corruption",
+    "published": "2026-08-17"
+  },
+  {
+    "id": "2608.16515v1",
+    "title": "When Context Misleads: Intent-Guided Decoding for Robust Retrieval-Augmented Generation",
+    "published": "2026-08-17"
+  },
+  {
+    "id": "2608.16417v1",
+    "title": "D2-ScaleAgent: Dual-Dimensional Scaling for Long Document Understanding",
+    "published": "2026-08-17"
+  },
+  {
+    "id": "2608.16096v1",
+    "title": "The Commercial Tax: Rent-vs-Own Blind Spots in Multi-Hop Retrieval Benchmarks",
+    "published": "2026-08-17"
+  },
+  {
+    "id": "2608.16044v1",
+    "title": "Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval",
+    "published": "2026-08-17"
+  },
+  {
+    "id": "2608.15851v2",
+    "title": "Query Expansion Should Be Coordinated: Dense Expands, Sparse Anchors",
+    "published": "2026-08-16"
+  },
+  {
+    "id": "2608.15547v1",
+    "title": "BengaliMCQ: Automatic Generation and Answer Prediction of Academic Multiple-Choice Questions in a Low-Resource Language",
+    "published": "2026-08-16"
+  },
+  {
+    "id": "2608.15535v1",
+    "title": "L3Cube-IndicQuest v2: A Large-Scale Multilingual Benchmark for Evaluating Factual Knowledge of Large Language Models Across Indic Languages",
+    "published": "2026-08-16"
+  }
+]

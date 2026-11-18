@@ -1,0 +1,33 @@
+# Secrets: only .env.example is committed
+.env
+.env.*
+!.env.example
+
+# Corpus, indexes, caches: large and regenerable from data/manifest.json
+data/raw/
+data/processed/
+indexes/
+.cache/
+qdrant_storage/
+
+# Model weights (downloaded by sentence-transformers / HF hub)
+*.safetensors
+*.bin
+*.onnx
+models/
+
+# Python / tooling
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
